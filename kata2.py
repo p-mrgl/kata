@@ -8,6 +8,5 @@ print("1700 should not be a leap year => ", isLeapYear(1700))
 print("1800 should not be a leap year => ", isLeapYear(1800))
 print("2020 should not be a leap year => ", isLeapYear(2020))
 print("2000 should not be a leap year => ", isLeapYear(2000))
-print("1700 should not be a leap year => ", isLeapYear(1700))
-print("1700 should not be a leap year => ", isLeapYear(1700))
-print("1700 should not be a leap year => ", isLeapYear(1700))
+print("2017 should not be a leap year => ", isLeapYear(2017))
+
